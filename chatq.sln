@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chatq", "chatq.csproj", "{50B36B4C-6B99-43C1-9810-03AE31D8C32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B36B4C-6B99-43C1-9810-03AE31D8C32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B36B4C-6B99-43C1-9810-03AE31D8C32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B36B4C-6B99-43C1-9810-03AE31D8C32D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{50B36B4C-6B99-43C1-9810-03AE31D8C32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B36B4C-6B99-43C1-9810-03AE31D8C32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B36B4C-6B99-43C1-9810-03AE31D8C32D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51075469-A168-41C2-81F5-F63458095660}
+	EndGlobalSection
+EndGlobal
